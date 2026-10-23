@@ -1,6 +1,6 @@
 # Olá, eu sou Caio Montanha! 👋
 
-[![Github](https://img.shields.io/github/followers/luizfelipebraga?label=Follow&style=social)](https://github.com/CaioMontanha)
+[![Github](https://img.shields.io/github/followers/CaioMontanha?label=Follow&style=social)](https://github.com/CaioMontanha)
 
 - 🔭 Atualmente estou trabalhando nos meus projetos pessoais.
 - ⚡ Curiosidade: gosto de tecnologia, desenvolvimento e criação de projetos.
